@@ -1,4 +1,4 @@
-const APP_ID = "5d93ac61595e4f2aa073892d911a5599";
+const APP_ID = "2f7d20cc53f24ba888e4c4dad50a8777";
 let uid = sessionStorage.getItem('uid');
 if (!uid) {
     uid = String(Math.floor(Math.random() * 10000));
